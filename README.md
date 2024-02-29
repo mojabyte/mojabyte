@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hassan's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mojabyte&langs_count=6&theme=github_dark&layout=compact&border_color=30363d&hide=tex)
-
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojabyte&show_icons=true&theme=github_dark&border_color=30363d&count_private=true)
+![Hassan's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mojabyte&langs_count=6&theme=github_dark&layout=compact&border_color=30363d&hide=tex)
